@@ -1,5 +1,5 @@
 # Workout-Tracker ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-
+* Deployed Site: https://workout-tracker4454.herokuapp.com/
 ## Description:
 This Workout Tracker Web-App will help you maintain a healthy 🏋️‍♂️ lifestyle! Users can track how long the total duration of their workouts <br>
 and how much they lifted for each day of the week. This information is then graphed 📈📊 for the users convenience. 
